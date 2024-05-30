@@ -18,7 +18,7 @@ class QuizGame:
         self.words = {}
         
         #READ FILE N4.JSON
-       with open("N4.json","r") as filejson:
+        with open("N4.json","r") as filejson:
             self.words = json.load(filejson)
         
         self.create_start_screen()
