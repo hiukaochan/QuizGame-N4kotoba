@@ -1,5 +1,5 @@
 # QuizGame-N4kotoba
-Python (with Tkinter library) simple quizgame for personal use.
+Python (with Tkinter library) simple quizgame for PERSONAL use.
 Because it is only used for the purpose of memorizing vocabulary for Japanese class, the GUI is not elaborate.
 
 You can run N4.py on any IDE that supports Python.
